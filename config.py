@@ -21,5 +21,5 @@ K_FACTOR = 30
 # Eğer geçmişe dönük test yapacaksanız buraya tarih yazın (Örn: "2025-11-30").
 # Eğer GÜNCEL tahmin yapacaksanız ve tüm veriyi istiyorsanız burayı None yapın.
 
-#CUTOFF_DATE = "2025-11-30"  # Açık: Sadece 30 Kasım'a kadar olan veriyi alır.
+CUTOFF_DATE = "2025-11-30"  # Açık: Sadece 30 Kasım'a kadar olan veriyi alır.
 CUTOFF_DATE = None        # Kapalı: Tüm güncel verileri alır.
